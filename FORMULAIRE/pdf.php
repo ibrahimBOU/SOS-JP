@@ -1,6 +1,7 @@
 <?php
 require('fpdf/fpdf.php');
 
+//Connect to your database
 
 class PDF extends FPDF
 {
