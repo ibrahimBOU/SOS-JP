@@ -16,21 +16,20 @@ body{
 
 #titre1 {
 	color: #EFF1F2;
-  font-size: 80px;
+  font-size: 40px;
   font-family: "Sen";
   text-transform: uppercase;
   border-radius: 25px;
   border-color: black;
   border-width: 200px;
   text-shadow:black 1px 1px, black -1px 1px, black -1px -1px, black 1px -1px;
-  
 }
 h1 span {
 	color: black; 
   text-transform: uppercase;
   font-family: "Sen";
   font-weight: bold;
-  font-size: 80px;
+  font-size: 40px;
   line-height: 20px;
 
   
